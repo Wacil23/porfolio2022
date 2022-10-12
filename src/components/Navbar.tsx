@@ -8,17 +8,17 @@ const Navbar = () => {
         <div className="bg-cyan-600 h-10 w-[1px]"></div>
           <li className="my-4 mx-4">
             <a>
-              <BsFacebook />
+              <BsFacebook style={{color: 'white'}} />
             </a>
           </li>
           <li className="my-4 mx-4">
             <a>
-              <BsGithub />
+              <BsGithub style={{color: 'white'}} />
             </a>
           </li>
           <li className="my-4 mx-4">
             <a>
-              <BsLinkedin />
+              <BsLinkedin style={{color: 'white'}} />
             </a>
           </li>
         <div className="bg-cyan-600 w-[1px] h-10"></div>

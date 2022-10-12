@@ -15,7 +15,7 @@ const Scroll = () => {
   }, []);
 
   return (
-    <div className="flex items-center justify-center">
+    <div className="flex items-center justify-center bg-slate-800 w-screen h-screen">
       <h1 className="md:text-7xl text-5xl absolute text-[#ffd3d3] font-black uppercase ">
         BONJOUR
       </h1>
